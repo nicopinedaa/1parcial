@@ -1,0 +1,8 @@
+<resources>
+    <string name="txt_sign_in_now">Sign In Now</string>
+    <string name="app_name">examen</string>
+    <string name="txt_phone">Phone,number, or email</string>
+    <string name="password">Password</string>
+    <string name="btn_sign_in">Sign In</string>
+
+</resources>
